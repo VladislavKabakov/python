@@ -1,0 +1,14 @@
+'''snakes = ['Anaconda', 'Python', 'Cobra', 'Boa', 'Lora' ]
+d = {}
+for index, value in enumerate(snakes):
+    d[value] = index'''
+
+import torch
+import numpy as np
+from scipy.special import softmax
+
+
+
+
+
+            
