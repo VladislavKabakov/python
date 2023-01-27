@@ -1,7 +1,7 @@
 import asyncio
 
 async def fetch_doc(doc):
-    await asyncio.sleep(1) #emulating doc downloding
+    await asyncio.sleep(1) #emulating doc downloading
     return doc
 
 async def get_pages(docs):
